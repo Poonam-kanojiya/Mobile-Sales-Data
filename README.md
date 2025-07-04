@@ -14,5 +14,5 @@ Tools Use:
 Data Source:
 The dataset used in this project is provided by Satish Dhawale through his Skill Course on Power BI skill course training.
 
-Screenshot:
+Screenshot:https://github.com/Poonam-kanojiya/Mobile-Sales-Data/blob/main/Mobile%20Sales%20Dashboard.png
 
